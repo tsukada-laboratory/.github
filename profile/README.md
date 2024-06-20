@@ -3,15 +3,34 @@
 授業や研究に使用するコンテンツ、プログラムコード、各種データを管理・公開しています。
 
 ## 🧑‍🏫 授業資料
+- Pythonプログラミング入門
+- IT実務演習
+- システム開発の基礎
+- システム開発の実際
+- データベース
+- データベース設計
+- ソフトウェア設計
+- ソフトウェア設計応用
+- アプリケーション開発
+- ウェブシステム開発
 
 ## 🏛️ 研究関連
 
+
 ## 🗞️ 教育コンテンツ
+### 📚 How To
+- Google Colab (Colaboratory) の使い方
+- Visual Studio Code の使い方
+- GitHub の使い方
+### 🧠 人工知能
 - WebCameraでリアルタイム物体検出AI（YOLO）を動かしてみよう
-- Microsoft PowerBIツール
+### 🧰 BIツール
+- Microsoft PowerBI の使い方
+- Tableau の使い方
+
 
 ## 🔗 リンク
-
+- [麗澤大学](https://www.reitaku-u.ac.jp/)
 
 <!--
 
