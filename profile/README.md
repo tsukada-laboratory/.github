@@ -14,8 +14,11 @@
 - アプリケーション開発
 - ウェブシステム開発
 
-## 🏛️ 研究関連
-
+## 🏛️ 研究プロジェクト
+- デジタルツイン
+- インフラモニタリング
+- 防災レジリエンス
+- 障害福祉と就労支援
 
 ## 🗞️ 教育コンテンツ
 ### 📚 How To
@@ -23,7 +26,7 @@
 - Visual Studio Code の使い方
 - GitHub の使い方
 ### 🧠 人工知能
-- WebCameraでリアルタイム物体検出AI（YOLO）を動かしてみよう
+- [WebCameraでリアルタイム物体検出AI（YOLO）を動かしてみよう](https://github.com/tsukada-laboratory/ai_webcamyolo)
 ### 🧰 BIツール
 - Microsoft PowerBI の使い方
 - Tableau の使い方
@@ -31,7 +34,7 @@
 
 ## 🔗 リンク
 - [麗澤大学](https://www.reitaku-u.ac.jp/)
-
+  
 <!--
 
 **Here are some ideas to get you started:**
